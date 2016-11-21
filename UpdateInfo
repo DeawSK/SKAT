@@ -1,4 +1,11 @@
-v7.9.1 *new 10/11/16
+v7.9.2 *new 21/11/16
+-เพิ่มปิด-เปิด บันทึกการตั้งค่าอัตโนมัติเมื่อปิดบอท (ตัวเก่าจะบันทึกอัตโนมัติเมื่อปิดบอท)
+-ปรับปรุงโหมดอื่นๆ
+
+-Add on-off Auto save setting when exit bot (Previous Version bot auto save when exit)
+-Other Improve
+------------------------------
+v7.9.1 
 -แก้ไขเข้าหอคอยไม่ได้บางท่าน
 
 -Fixed someone can not run tower
