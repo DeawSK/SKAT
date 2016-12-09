@@ -1,4 +1,11 @@
-v7.12.1 *new 09/12/16
+v7.12.2 *new 09/12/16
+📝แก้ไขค้างเมื่อกุญแจหมดในโหมดผจญภัย
+📝แก้ไขโหมดดันพิเศษ
+| 
+📝Fixed bot stuck when out of key on Adventure mode
+📝Fixed special dungeon
+------------------------------
+v7.12.1 09/12/16
 📝แก้ไขบางเครื่อง บอทไม่เลือกดันพิเศษ
 | 
 📝Fixed bot cannot select special dungeon
